@@ -1,0 +1,74 @@
+{
+  "StatusCode": 0,
+  "Message": null,
+  "ExecutionTime": 325,
+  "ResponseData": {
+    "Version": "2023-04-11 00:10",
+    "Type": "JourneyPatternPointOnLine",
+    "Result": [
+      {
+        "LineNumber": "1",
+        "DirectionCode": "1",
+        "JourneyPatternPointNumber": "10001",
+        "LastModifiedUtcDateTime": "2022-02-15 00:00:00.000",
+        "ExistsFromDate": "2022-02-15 00:00:00.000"
+      },
+      {
+        "LineNumber": "1",
+        "DirectionCode": "1",
+        "JourneyPatternPointNumber": "10002",
+        "LastModifiedUtcDateTime": "2023-03-07 00:00:00.000",
+        "ExistsFromDate": "2023-03-07 00:00:00.000"
+      },
+      {
+        "LineNumber": "1",
+        "DirectionCode": "1",
+        "JourneyPatternPointNumber": "10003",
+        "LastModifiedUtcDateTime": "2022-08-10 00:00:00.000",
+        "ExistsFromDate": "2022-08-10 00:00:00.000"
+      },
+      {
+        "LineNumber": "2",
+        "DirectionCode": "1",
+        "JourneyPatternPointNumber": "20001",
+        "LastModifiedUtcDateTime": "2022-02-01 00:00:00.000",
+        "ExistsFromDate": "2022-02-01 00:00:00.000"
+      },
+      {
+        "LineNumber": "2",
+        "DirectionCode": "1",
+        "JourneyPatternPointNumber": "20002",
+        "LastModifiedUtcDateTime": "2022-02-17 00:00:00.000",
+        "ExistsFromDate": "2022-02-17 00:00:00.000"
+      },
+      {
+        "LineNumber": "2",
+        "DirectionCode": "1",
+        "JourneyPatternPointNumber": "20003",
+        "LastModifiedUtcDateTime": "2022-03-18 00:00:00.000",
+        "ExistsFromDate": "2022-03-18 00:00:00.000"
+      },
+      {
+        "LineNumber": "3",
+        "DirectionCode": "1",
+        "JourneyPatternPointNumber": "30001",
+        "LastModifiedUtcDateTime": "2022-03-03 00:00:00.000",
+        "ExistsFromDate": "2022-03-03 00:00:00.000"
+      },
+      {
+        "LineNumber": "3",
+        "DirectionCode": "1",
+        "JourneyPatternPointNumber": "30002",
+        "LastModifiedUtcDateTime": "2022-03-03 00:00:00.000",
+        "ExistsFromDate": "2022-03-03 00:00:00.000"
+      },
+      {
+        "LineNumber": "3",
+        "DirectionCode": "1",
+        "JourneyPatternPointNumber": "30003",
+        "LastModifiedUtcDateTime": "2022-03-03 00:00:00.000",
+        "ExistsFromDate": "2022-03-03 00:00:00.000"
+      }
+    ]
+  }
+}

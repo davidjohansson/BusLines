@@ -1,0 +1,110 @@
+{
+  "StatusCode": 0,
+  "Message": null,
+  "ExecutionTime": 424,
+  "ResponseData": {
+    "Version": "2023-04-11 00:10",
+    "Type": "StopPoint",
+    "Result": [
+      {
+        "StopPointNumber": "10001",
+        "StopPointName": "Stadshagsplan",
+        "StopAreaNumber": "10001",
+        "LocationNorthingCoordinate": "59.3373571967995",
+        "LocationEastingCoordinate": "18.0214674159693",
+        "ZoneShortName": "A",
+        "StopAreaTypeCode": "BUSTERM",
+        "LastModifiedUtcDateTime": "2022-10-28 00:00:00.000",
+        "ExistsFromDate": "2022-10-28 00:00:00.000"
+      },
+      {
+        "StopPointNumber": "10002",
+        "StopPointName": "John Bergs plan",
+        "StopAreaNumber": "10002",
+        "LocationNorthingCoordinate": "59.3362549983713",
+        "LocationEastingCoordinate": "18.0220232520707",
+        "ZoneShortName": "A",
+        "StopAreaTypeCode": "BUSTERM",
+        "LastModifiedUtcDateTime": "2015-09-24 00:00:00.000",
+        "ExistsFromDate": "2015-09-24 00:00:00.000"
+      },
+      {
+        "StopPointNumber": "10003",
+        "StopPointName": "Arbetargatan",
+        "StopAreaNumber": "10006",
+        "LocationNorthingCoordinate": "59.3352143599364",
+        "LocationEastingCoordinate": "18.0270636513120",
+        "ZoneShortName": "A",
+        "StopAreaTypeCode": "BUSTERM",
+        "LastModifiedUtcDateTime": "2022-09-29 00:00:00.000",
+        "ExistsFromDate": "2022-09-29 00:00:00.000"
+      },
+      {
+        "StopPointNumber": "20001",
+        "StopPointName": "Arbetargatan",
+        "StopAreaNumber": "10006",
+        "LocationNorthingCoordinate": "59.3350843183187",
+        "LocationEastingCoordinate": "18.0276324974196",
+        "ZoneShortName": "A",
+        "StopAreaTypeCode": "BUSTERM",
+        "LastModifiedUtcDateTime": "2022-09-29 00:00:00.000",
+        "ExistsFromDate": "2022-09-29 00:00:00.000"
+      },
+      {
+        "StopPointNumber": "20002",
+        "StopPointName": "S:t Eriksgatan",
+        "StopAreaNumber": "10008",
+        "LocationNorthingCoordinate": "59.3346583312157",
+        "LocationEastingCoordinate": "18.0315016515233",
+        "ZoneShortName": "A",
+        "StopAreaTypeCode": "BUSTERM",
+        "LastModifiedUtcDateTime": "2022-02-15 00:00:00.000",
+        "ExistsFromDate": "2022-02-15 00:00:00.000"
+      },
+      {
+        "StopPointNumber": "20003",
+        "StopPointName": "Celsiusgatan",
+        "StopAreaNumber": "10008",
+        "LocationNorthingCoordinate": "59.3342500243393",
+        "LocationEastingCoordinate": "18.0335615860470",
+        "ZoneShortName": "A",
+        "StopAreaTypeCode": "BUSTERM",
+        "LastModifiedUtcDateTime": "2022-02-15 00:00:00.000",
+        "ExistsFromDate": "2022-02-15 00:00:00.000"
+      },
+      {
+        "StopPointNumber": "30001",
+        "StopPointName": "Kungsbroplan",
+        "StopAreaNumber": "10008",
+        "LocationNorthingCoordinate": "59.3342500243393",
+        "LocationEastingCoordinate": "18.0335615860470",
+        "ZoneShortName": "A",
+        "StopAreaTypeCode": "BUSTERM",
+        "LastModifiedUtcDateTime": "2022-02-15 00:00:00.000",
+        "ExistsFromDate": "2022-02-15 00:00:00.000"
+      },
+      {
+        "StopPointNumber": "30002",
+        "StopPointName": "Frihamnens färjeterminal",
+        "StopAreaNumber": "10010",
+        "LocationNorthingCoordinate": "59.3425635205332",
+        "LocationEastingCoordinate": "18.1189085925683",
+        "ZoneShortName": "A",
+        "StopAreaTypeCode": "BUSTERM",
+        "LastModifiedUtcDateTime": "2023-02-07 00:00:00.000",
+        "ExistsFromDate": "2023-02-07 00:00:00.000"
+      },
+      {
+        "StopPointNumber": "30003",
+        "StopPointName": "Frihamnsporten",
+        "StopAreaNumber": "10052",
+        "LocationNorthingCoordinate": "59.3399094088355",
+        "LocationEastingCoordinate": "18.1146321830924",
+        "ZoneShortName": "A",
+        "StopAreaTypeCode": "BUSTERM",
+        "LastModifiedUtcDateTime": "2022-09-20 00:00:00.000",
+        "ExistsFromDate": "2022-09-20 00:00:00.000"
+      }
+    ]
+  }
+}
