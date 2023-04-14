@@ -27,9 +27,8 @@ Api keys can be acquired at https://www.trafiklab.se/
 3. Load `http://localhost:8080/` in your browser
 
 ### Running the application in dev mode
-For faster turnaround during development the Next.js app can be run standalone.
+For faster turnaround during development the Next.js app can be run standalone:
 
-To do this, first use 
 1. Make sure `yarn`  is installed locally
 2. Replace `src/main/webapp/busstops/next.config.js` with `src/main/webapp/busstops/next.config_standalone.js`
 2. Start the Spring Boot app as described above
