@@ -14,7 +14,8 @@ Next.js app home directory: `<Root of the project>/src/main/webapp/busstops`
 Prerequisites: Java 17 installed and a valid api key for the SL api:s.
 Api keys can be acquired at https://www.trafiklab.se/
 
-1. Add the SL api key to the `sl.apikey` property in `src/main/resources/application.yaml`
+1. Add the SL api key to the `sl.apikey` property in `src/main/resources/application.yaml`:
+    ![prop_apikey.png](prop_apikey.png)
 2. In the root folder of the application, run
 
     `
